@@ -14,3 +14,20 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.navbar1 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: beige;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.navbar3 {
+  padding: 5px;
+  margin: 5px;
+}
+.navbar3:hover {
+  background-color: black;
+  color: white;
+}
