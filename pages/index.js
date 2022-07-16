@@ -11,6 +11,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+          {/* <Navbar/> */}
+    <header className='header'>
+      <Image src="/icono18x27.png" alt="Plastico Logo" className={styles.imageLogo}  width={40} height={40} />
+        <h2>Ecowiki</h2>
+    </header>
+
       <main className={styles.main}>
         <h1 className={styles.title}>
         Ecowiki
