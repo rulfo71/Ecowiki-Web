@@ -1,0 +1,18 @@
+.imageWrapper {
+    margin-right: 15px;
+  }
+
+.a {
+    display:contents
+}
+
+.header {
+    width: 100%;
+    border-bottom: 1px solid #eee;
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+    padding: 5px 20px;
+    background-color: #fff;
+  }
