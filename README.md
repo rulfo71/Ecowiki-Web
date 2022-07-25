@@ -1,8 +1,8 @@
 Ecowiki is a mobile app deployed on Google Play Store. 
 Uses the following technologies: 
-Frontend: React Native (https://github.com/rulfo71/Ecowiki-frontend) 
-Backend: NestJS deployado en GCP (https://github.com/rulfo71/Ecowiki-Backend)
-Base de Datos: Firebase 
+- Frontend: React Native (https://github.com/rulfo71/Ecowiki-frontend) 
+- Backend: NestJS deployado en GCP (https://github.com/rulfo71/Ecowiki-Backend)
+- Base de Datos: Firebase 
 
 It's a collaborative app where you can search on which container goes each different kind of products on the market. 
 You can search by name or codebar. 
