@@ -1,6 +1,8 @@
 Ecowiki is a mobile app deployed on Google Play Store. 
+This project is WIP for the web of Ecowiki.
 Uses the following technologies: 
-- Frontend: React Native (https://github.com/rulfo71/Ecowiki-frontend) 
+- Frontend Mobile: React Native (https://github.com/rulfo71/Ecowiki-frontend) 
+- Frontend Web: Next.js (https://github.com/rulfo71/Ecowiki-Web)
 - Backend: NestJS deployado en GCP (https://github.com/rulfo71/Ecowiki-Backend)
 - Base de Datos: Firebase 
 
