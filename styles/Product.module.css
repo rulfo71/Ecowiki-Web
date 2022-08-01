@@ -1,5 +1,4 @@
 .main {
-  min-height: 100vh;
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -7,17 +6,33 @@
   align-items: center;
   padding-top: 85px;
 }
-.grid {
-  display: flex;
-}
 
 .product {
   border-color: #bfbeb7;
-  border: solid;
   padding: 16px;
   border-radius: 28px;
-  margin: 25px;}
+  height: 100%;
+  margin: 25px;
+  background-color: #d3d3d3;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
 
 .image{
   border-radius: 30px;
 }
+
+
+.imageWrapper {
+    text-align: center;
+}
+
+.title {
+  letter-spacing: 1.2px;
+  font-weight: 600;
+}
+
+.data {
+  background-color: green;
+  border-radius: 10px;
+  padding: 7px;
+  color: white;}

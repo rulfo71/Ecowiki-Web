@@ -1,6 +1,6 @@
-import styles from "../../styles/MaterialsList.module.css";
-import Material from "./Material";
-import { listOfMaterials } from "common/constants";
+import styles from '../../styles/MaterialsList.module.css';
+import Material from './Material';
+import { listOfMaterials } from 'common/constants';
 
 export default function MaterialsList() {
   return (

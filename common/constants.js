@@ -13,3 +13,12 @@ export const listOfMaterials = [
     ["Botella de Amor", "botellaDeAmor"],
     ["No se Recicla", "noSeRecicla"],
   ];
+
+export const materialMapper = {
+    plastico: 'Plástico',
+    metalAluminio: 'Metal y Aluminio',
+    papelCarton: 'Papel y Cartón',
+    organico: 'Orgánico',
+    botellaDeAmor: 'Botella de Amor',
+    noSeRecicla: 'No se Recicla'
+}
