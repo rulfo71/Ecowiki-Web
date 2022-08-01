@@ -15,4 +15,5 @@
     align-items: center;
     padding: 5px 20px;
     background-color: #fff;
+    z-index: 1;
   }
